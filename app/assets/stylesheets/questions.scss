@@ -3,14 +3,19 @@
 // You can use Sass (SCSS) here: https://sass-lang.com/
 h1 {
   color: darkslateblue;
-  font-size: 30px;
+  font-size: 50px;
 }
 p {
 color: rgb(71, 55, 121);
 font-size: 20px;
 }
-form{
-  color: rgb(165, 42, 97);
-  font-size: 30px;
-  border-color: chocolate;
+a:link {
+color: rgb(71, 55, 121);
+font-size: 20px;
+}
+
+.saisie {
+  width: 500px;
+  height: 100px;
+  color: red;
 }
